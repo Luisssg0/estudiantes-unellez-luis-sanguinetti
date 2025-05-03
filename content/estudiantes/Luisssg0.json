@@ -1,0 +1,27 @@
+{
+    "name":"Luis Sanguinetti",
+    "aboutMe":"Soy Luis, un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando Séptimo semestre en la UNELLEZ. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo el desarrollo web y de aplicaciones.",
+    "softSkills":[
+        "Liderazgo",
+        "Comunicación",
+        "Adaptabilidad",
+        "Responsabilidad"
+    ],
+    "techSkills":[
+        "Javascript",
+    ],
+    "experience":[
+        {
+            "organization":"UNELLEZ",
+            "role":"Estudiante",
+            "since":2022,
+            "description":"Estudiante de ingeniería informática"
+        }
+    
+    ],
+    "contact":[
+        {"name":"Github",
+        "url":"https://github.com/Luisssg0",
+        "icon":"mdiGithub"
+        }
+    ]
